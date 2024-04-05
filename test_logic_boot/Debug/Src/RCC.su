@@ -1,0 +1,3 @@
+../Src/RCC.c:11:6:RCC_voidSysClkInt	4	static
+../Src/RCC.c:86:6:RCC_voidEnablePerCLK	16	static
+../Src/RCC.c:107:6:RCC_voidDisablePerCLK	16	static

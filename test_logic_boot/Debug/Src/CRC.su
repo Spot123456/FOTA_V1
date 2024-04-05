@@ -1,0 +1,4 @@
+../Src/CRC.c:13:6:CRC_Read_data	16	static
+../Src/CRC.c:17:6:CRC_Write_data	16	static
+../Src/CRC.c:21:6:CRC_Write_Arr	24	static
+../Src/CRC.c:30:6:CRC_ReSet	4	static

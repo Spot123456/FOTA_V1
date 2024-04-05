@@ -1,0 +1,10 @@
+HEX_Parser.c:14:5:my_strlen	2
+HEX_Parser.c:24:5:swapBytes	1
+HEX_Parser.c:31:6:swapBitsInArray	2
+HEX_Parser.c:37:6:RedesignHex2Bytes	2
+HEX_Parser.c:63:6:reversrBytesInBlock	3
+HEX_Parser.c:80:6:HEX_voidParseFrame	3
+HEX_Parser.c:106:11:Parser_2_AsciiHex	5
+HEX_Parser.c:129:6:Parser_ParseData	2
+HEX_Parser.c:174:6:HEX_voidParseFrame1	2
+HEX_Parser.c:238:6:RedesignHex1Bytes	9

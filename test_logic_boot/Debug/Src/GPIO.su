@@ -1,0 +1,5 @@
+../Src/GPIO.c:14:6:DIO_voidSetPinDirection	16	static
+../Src/GPIO.c:258:6:DIO_voidSetPinSpeed	16	static
+../Src/GPIO.c:318:6:DIO_voidSetPinValue	16	static
+../Src/GPIO.c:349:5:DIO_u8GetPinValue	24	static
+../Src/GPIO.c:366:6:AF_Select_pin_Fun	16	static

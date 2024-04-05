@@ -1,0 +1,4 @@
+CRC.c:13:6:CRC_Read_data	1
+CRC.c:17:6:CRC_Write_data	1
+CRC.c:21:6:CRC_Write_Arr	2
+CRC.c:30:6:CRC_ReSet	1

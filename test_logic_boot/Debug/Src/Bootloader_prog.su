@@ -1,0 +1,9 @@
+../Src/Bootloader_prog.c:42:6:DMB	4	static,ignoring_inline_asm
+../Src/Bootloader_prog.c:52:6:Bootloader_Init	16	static
+../Src/Bootloader_prog.c:91:6:Bootloader_voidFlashRunnable	16	static
+../Src/Bootloader_prog.c:148:15:localBootloader_updateAvailable	16	static
+../Src/Bootloader_prog.c:166:13:Bootloader_StateMachienChangeToApp	8	static
+../Src/Bootloader_prog.c:174:6:RX_Fun	8	static
+../Src/Bootloader_prog.c:202:6:Bootloader_voidfReciveFlash	56	static
+../Src/Bootloader_prog.c:240:6:Bootloader_Jump_To_Application	16	static
+../Src/Bootloader_prog.c:272:6:Bootloader_HandelFlames	16	static
